@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.main__title{
+    color: black;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#main__title--index{
+    color: grey;
+}
+
+.main__text{
+    font-size: 2rem;
+}
+
+.main__link{
+    font-size: 2rem;
+    text-decoration: none;
+    color: red;
+}
+.main__link:hover{
+    color: green;
+}
