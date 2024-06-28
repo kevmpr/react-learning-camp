@@ -1,6 +1,6 @@
 <h1>Rootstrap con Kevin</h1>
 <h2>Sobre mi repositorio</h2>
-<p>Encontraremos distintas carpeta cada una correspondiendo a lo visto en esa clase</p>
+<p>Encontraremos distintas carpetas, cada una correspondiendo a lo visto en esa clase</p>
 <br>
 <h2>Sobre mi</h2>
 <ul>
@@ -13,5 +13,6 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>JS</li>
 </ul>
 <br>
